@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203763891843",
+    "project_id": "gebmobile-6584d",
+    "storage_bucket": "gebmobile-6584d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203763891843:android:d0786b165d4e991be765b6",
+        "android_client_info": {
+          "package_name": "com.example.geb_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSBZCYN76tqQSzvxjFVl3bdnn664WFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203763891843:android:1eb469c891fbc430e765b6",
+        "android_client_info": {
+          "package_name": "com.example.geb_mobile_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSBZCYN76tqQSzvxjFVl3bdnn664WFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
